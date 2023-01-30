@@ -1,5 +1,5 @@
 # How to use
-![Thumbnail](Thumbnail\ V002.png)
+![Thumbnail](ThumbnailV002.png)
 1) Go to the create config, and set `Link Range` to the max
 
 2) Add a stabilizer to the back, as the schematic doesnt inculde one
