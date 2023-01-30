@@ -6,5 +6,5 @@
 3) Glue all the controll surfaces
 4) Connect the prop to the plane with a Takeoff rotor (they connect to rotor heads if there is one nearby, this can be quite finicky though)
 5) Configure a linked controller like so:
-6) 
+
 ![Linked Controller](image.png)
