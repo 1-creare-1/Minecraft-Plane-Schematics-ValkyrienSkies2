@@ -1,5 +1,6 @@
 # How to use
 ![Thumbnail](ThumbnailV002.png)
+Showcase: https://youtu.be/epQdHJIzJz4
 1) The schematic uses Eureka ship helms to make it easier to connect with the prop: https://www.curseforge.com/minecraft/mc-mods/eureka-ships
 2) Place the two schematic files in your schematics folder in .minecraft
 3) You can use create to load the shcmeatics
